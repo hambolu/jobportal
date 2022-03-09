@@ -2273,9 +2273,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 .submit-left,
 .contact-btns,
 .form-area .primary-btn {
-    background-image: -moz-linear-gradient(0deg, #bfacff 0%, #a08eff1a 100%);
-    background-image: -webkit-linear-gradient(0deg, #bfacff 0%, #a08eff1a 100%);
-    background-image: -ms-linear-gradient(0deg, #bfacff 0%, #a08eff1a 100%);
+    background-image: -moz-linear-gradient(0deg, #111011 0%, #0b0b0c1a 100%);
+    background-image: -webkit-linear-gradient(0deg, #111011 0%, #0b0b0c1a 100%);
+    background-image: -ms-linear-gradient(0deg, #111011 0%, #0b0b0c1a 100%);
 }
 
 .p1-gradient-color,

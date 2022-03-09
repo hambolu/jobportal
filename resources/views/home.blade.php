@@ -21,7 +21,7 @@
 			<!--
 			CSS
 			============================================= -->
-			<link rel="stylesheet" href="{{asset('css/linearicons.css')}}">
+			<link rel="stylesheet" href="{{asset('public/css/linearicons.css')}}">
 			<link rel="stylesheet" href="{{asset('css/font-awesome.min.css')}}">
 			<link rel="stylesheet" href="{{asset('css/bootstrap.css')}}">
 			<link rel="stylesheet" href="{{asset('css/magnific-popup.css')}}">
@@ -36,7 +36,7 @@
 			    <div class="container">
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
+				        <a href="/"><img src="img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
